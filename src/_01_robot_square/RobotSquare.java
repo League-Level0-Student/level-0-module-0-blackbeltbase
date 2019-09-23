@@ -13,10 +13,10 @@ public class RobotSquare {
  
     	// 1. Make a new Robot
 
-
+Robot robot = new Robot();
         // 3. Put the robot's pen down
 
-
+robot.
         // 6. Make the robot move as fast as possible
 
 
